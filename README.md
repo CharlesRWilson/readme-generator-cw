@@ -7,32 +7,15 @@
 
 ## Description
 
-it helps generate readmes
-
-## Table of Contents
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
-https://opensource.org/licenses/MIT
-
-## Installation
-
-download the file
+This README Generator can be used through node to help you quickly generate your READMEs. This project was great for me to learn about node as well as practice with using functions in javascript!
 
 ## Usage
 
-use node index.js
+Simply use node index.js in your terminal to have the prompts start popping up. All you have to do is answer the prompts and then it will generate the MarkDown for you!
 
 ## Contributing
 
-i cuntributed with some help from my tutor
-
-## Tests
-
-teest it
+I made the first half of this with my tutor Brandon, if oyu would like me to link his github I can do that! I made the rest with my own knowledge aas well as help from ai and stack overflow!
 
 ## Questions
 
